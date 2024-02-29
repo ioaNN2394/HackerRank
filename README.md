@@ -19,5 +19,5 @@ Finalmente, el programa solicita al usuario que ingrese el tamaño del Rangoli q
 
 ## Enlace al problema
 
-Puedes encontrar el problema original en HackerRank.
+Problema en HackerRank.
 : https://www.hackerrank.com/challenges/alphabet-rangoli/problem?isFullScreen=true
