@@ -12,3 +12,6 @@ Restricciones: Las restricciones del problema son las siguientes:
 2 ≤ N, M ≤ 10^5
 1 ≤ 〖op〗_i ≤ 5 * 10^5
 Solución propuesta: La solución propuesta para este problema implica seguir los pasos descritos en el problema. Primero, inicializamos la matriz como una permutación de identidad. Luego, para cada operación, verificamos si 〖op〗_i está en la matriz. Si es así, intercambiamos los primeros y últimos elementos. Si no, eliminamos el último elemento e insertamos 〖op〗_i al final. Después de cada operación, calculamos e imprimimos la suma de los elementos de la matriz.
+
+LINK DEL CHALLENGE:
+https://www.hackerrank.com/contests/hack-the-interview-vi/challenges/maximum-sum-10-1/problem
